@@ -1,0 +1,4 @@
+#include class_EasyXML.ahk
+
+msgbox test
+
